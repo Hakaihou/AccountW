@@ -1,0 +1,431 @@
+{
+    "en": {
+        "translation": {
+            "title": "Successful registration!",
+            "thanksWait": "Please wait...",
+            "successful": "Registration was successful!",
+            "first": "Wait for the transfer to your personal account",
+            "second": "You will now be logged into your personal account, where you can start earning money.",
+            "third": "Waiting for our call!",
+            "fourth": "Once your registration has been accepted, you will receive a call from one of our managers with the algorithm."
+        }
+    },
+    "sv": {
+    "translation": {
+        "title": "Registreringen lyckades!",
+        "thanksWait": "Vänligen vänta...",
+        "successful": "Registreringen lyckades!",
+        "first": "Vänta på att överföras till ditt personliga konto",
+        "second": "Du kommer nu att loggas in på ditt personliga konto, där du kan börja tjäna pengar.",
+        "third": "Vänta på vårt samtal!",
+        "fourth": "När din registrering har godkänts kommer du att bli uppringd av en av våra chefer med algoritmen."
+    }
+},
+    "es": {
+        "translation": {
+            "title": "¡Registro exitoso!",
+            "thanksWait": "Por favor, espere...",
+            "successful": "¡El registro fue exitoso!",
+            "first": "Espere la transferencia a su cuenta personal",
+            "second": "Ahora iniciará sesión en su cuenta personal, donde podrá comenzar a ganar dinero.",
+            "third": "¡Esperando nuestra llamada!",
+            "fourth": "Una vez que su registro haya sido aceptado, recibirá una llamada de uno de nuestros gestores con el algoritmo."
+        }
+    },
+    "fr": {
+        "translation": {
+            "title": "Inscription réussie !",
+            "thanksWait": "Veuillez patienter...",
+            "successful": "L'inscription a été réussie !",
+            "first": "Attendez le transfert vers votre compte personnel",
+            "second": "Vous allez maintenant vous connecter à votre compte personnel, où vous pourrez commencer à gagner de l'argent.",
+            "third": "En attente de notre appel !",
+            "fourth": "Une fois votre inscription acceptée, vous recevrez un appel de l'un de nos managers avec l'algorithme."
+        }
+    },
+    "de": {
+        "translation": {
+            "title": "Erfolgreiche Registrierung!",
+            "thanksWait": "Bitte warten...",
+            "successful": "Die Registrierung war erfolgreich!",
+            "first": "Warten Sie auf die Übertragung auf Ihr persönliches Konto",
+            "second": "Sie werden jetzt in Ihr persönliches Konto eingeloggt, wo Sie mit dem Geldverdienen beginnen können.",
+            "third": "Warten auf unseren Anruf!",
+            "fourth": "Sobald Ihre Registrierung akzeptiert wurde, erhalten Sie einen Anruf von einem unserer Manager mit dem Algorithmus."
+        }
+    },
+    "nl": {
+        "translation": {
+            "title": "Registratie geslaagd!",
+            "thanksWait": "Even geduld...",
+            "successful": "De registratie was succesvol!",
+            "first": "Wacht op de overdracht naar uw persoonlijke account",
+            "second": "U wordt nu ingelogd op uw persoonlijke account, waar u kunt beginnen met geld verdienen.",
+            "third": "Wachten op ons telefoontje!",
+            "fourth": "Zodra uw registratie is geaccepteerd, ontvangt u een telefoontje van een van onze managers met het algoritme."
+        }
+    },
+    "ne": {
+        "translation": {
+            "title": "सफल दर्ता!",
+            "thanksWait": "कृपया प्रतिक्षा गर्नुहोस्...",
+            "successful": "दर्ता सफल भयो!",
+            "first": "तपाईंको व्यक्तिगत खातामा स्थानान्तरणको लागि पर्खनुहोस्",
+            "second": "अब तपाईं आफ्नो व्यक्तिगत खातामा लगइन हुनुहुनेछ, जहाँ तपाईं पैसा कमाउन सुरु गर्न सक्नुहुन्छ।",
+            "third": "हाम्रो कलको प्रतिक्षामा!",
+            "fourth": "एक पटक तपाईंको दर्ता स्वीकृत भएपछि, हाम्रो म्यानेजरको तर्फबाट तपाईंलाई एल्गोरिदमको साथ फोन आउनेछ।"
+        }
+    },
+    "se": {
+        "translation": {
+            "title": "Framgångsrik registrering!",
+            "thanksWait": "Vänligen vänta...",
+            "successful": "Registreringen var framgångsrik!",
+            "first": "Vänta på överföringen till ditt personliga konto",
+            "second": "Du kommer nu loggas in på ditt personliga konto där du kan börja tjäna pengar.",
+            "third": "Väntar på vårt samtal!",
+            "fourth": "När din registrering har godkänts kommer du att bli kontaktad av en av våra chefer med algoritmen."
+        }
+    },
+    "ja": {
+        "translation": {
+            "title": "登録完了！",
+            "thanksWait": "しばらくお待ちください...",
+            "successful": "登録が成功しました！",
+            "first": "個人アカウントへの転送をお待ちください",
+            "second": "今、個人アカウントにログインします。そこでお金を稼ぎ始めることができます。",
+            "third": "お電話をお待ちしております！",
+            "fourth": "登録が承認され次第、マネージャーからアルゴリズムについてのお電話があります。"
+        }
+    },
+    "lv": {
+        "translation": {
+            "title": "Reģistrācija veiksmīga!",
+            "thanksWait": "Lūdzu, uzgaidiet...",
+            "successful": "Reģistrācija bija veiksmīga!",
+            "first": "Gaidiet pārskaitījumu uz savu personīgo kontu",
+            "second": "Tagad jūs tiksiet pieteicies savā personīgajā kontā, kur varēsiet sākt pelnīt naudu.",
+            "third": "Gaidām mūsu zvanu!",
+            "fourth": "Kad jūsu reģistrācija būs pieņemta, jūs saņemsiet zvanu no viena no mūsu menedžeriem ar algoritmu."
+        }
+    },
+    "lt": {
+        "translation": {
+            "title": "Registracija sėkminga!",
+            "thanksWait": "Prašome palaukti...",
+            "successful": "Registracija buvo sėkminga!",
+            "first": "Palaukite, kol bus pervesta į jūsų asmeninę sąskaitą",
+            "second": "Dabar būsite prisijungęs prie savo asmeninės paskyros, kur galėsite pradėti uždirbti pinigus.",
+            "third": "Laukiame mūsų skambučio!",
+            "fourth": "Kai jūsų registracija bus priimta, gausite skambutį iš vieno iš mūsų vadybininkų su algoritmu."
+        }
+    },
+    "pt": {
+        "translation": {
+            "title": "Registro bem-sucedido!",
+            "thanksWait": "Por favor, aguarde...",
+            "successful": "O registro foi bem-sucedido!",
+            "first": "Aguarde a transferência para sua conta pessoal",
+            "second": "Você agora será logado na sua conta pessoal, onde poderá começar a ganhar dinheiro.",
+            "third": "Aguardando nossa ligação!",
+            "fourth": "Assim que seu registro for aceito, você receberá uma ligação de um de nossos gerentes com o algoritmo."
+        }
+    },
+    "it": {
+        "translation": {
+            "title": "Registrazione avvenuta con successo!",
+            "thanksWait": "Attendere prego...",
+            "successful": "La registrazione è avvenuta con successo!",
+            "first": "Attendere il trasferimento al proprio account personale",
+            "second": "Ora verrà effettuato l'accesso al proprio account personale, dove potrà iniziare a guadagnare denaro.",
+            "third": "In attesa della nostra chiamata!",
+            "fourth": "Una volta che la tua registrazione sarà accettata, riceverai una chiamata da uno dei nostri manager con l'algoritmo."
+        }
+    },
+    "pl": {
+        "translation": {
+            "title": "Rejestracja zakończona sukcesem!",
+            "thanksWait": "Proszę czekać...",
+            "successful": "Rejestracja zakończona sukcesem!",
+            "first": "Proszę czekać na transfer do swojego konta osobistego",
+            "second": "Teraz zalogujesz się na swoje konto osobiste, gdzie będziesz mógł zacząć zarabiać pieniądze.",
+            "third": "Czekamy na nasze połączenie!",
+            "fourth": "Po zaakceptowaniu rejestracji otrzymasz telefon od jednego z naszych menedżerów z algorytmem."
+        }
+    },
+    "ru": {
+        "translation": {
+            "title": "Регистрация успешна!",
+            "thanksWait": "Пожалуйста, подождите...",
+            "successful": "Регистрация прошла успешно!",
+            "first": "Ожидайте перевода на ваш личный счёт",
+            "second": "Теперь вы войдете в свой личный кабинет, где сможете начать зарабатывать деньги.",
+            "third": "Ждём вашего звонка!",
+            "fourth": "После подтверждения вашей регистрации, вы получите звонок от одного из наших менеджеров с алгоритмом."
+        }
+    },
+    "tr": {
+        "translation": {
+            "title": "Başarıyla kayıt oldunuz!",
+            "thanksWait": "Lütfen bekleyin...",
+            "successful": "Kayıt başarılı oldu!",
+            "first": "Kişisel hesabınıza transferi bekleyin",
+            "second": "Şimdi kişisel hesabınıza giriş yapacaksınız, burada para kazanmaya başlayabilirsiniz.",
+            "third": "Aramamızı bekliyoruz!",
+            "fourth": "Kaydınız onaylandığında, algoritmayı içeren bir telefon alacaksınız."
+        }
+    },
+    "da": {
+        "translation": {
+            "title": "Registreringen var vellykket!",
+            "thanksWait": "Vent venligst...",
+            "successful": "Registreringen var vellykket!",
+            "first": "Vent på overførslen til din personlige konto",
+            "second": "Du vil nu blive logget ind på din personlige konto, hvor du kan begynde at tjene penge.",
+            "third": "Vent på vores opkald!",
+            "fourth": "Når din registrering er accepteret, vil du modtage et opkald fra en af vores chefer med algoritmen."
+        }
+    },
+    "no": {
+        "translation": {
+            "title": "Registreringen var vellykket!",
+            "thanksWait": "Vennligst vent...",
+            "successful": "Registreringen var vellykket!",
+            "first": "Vent på overføringen til din personlige konto",
+            "second": "Du blir nå logget inn på din personlige konto, hvor du kan begynne å tjene penger.",
+            "third": "Venter på vårt anrop!",
+            "fourth": "Når registreringen din er akseptert, vil du motta en telefon fra en av våre ledere med algoritmen."
+        }
+    },
+    "fi": {
+        "translation": {
+            "title": "Rekisteröinti onnistui!",
+            "thanksWait": "Ole hyvä ja odota...",
+            "successful": "Rekisteröinti oli onnistunut!",
+            "first": "Odota siirtoa henkilökohtaiseen tiliisi",
+            "second": "Sinut kirjataan nyt sisään henkilökohtaiseen tiliisi, jossa voit alkaa ansaita rahaa.",
+            "third": "Odota puheluamme!",
+            "fourth": "Kun rekisteröintisi on hyväksytty, saat puhelun yhdeltä meidän johtajistamme algoritmista."
+        }
+    },
+    "el": {
+        "translation": {
+            "title": "Επιτυχής εγγραφή!",
+            "thanksWait": "Παρακαλώ περιμένετε...",
+            "successful": "Η εγγραφή ήταν επιτυχής!",
+            "first": "Περιμένετε τη μεταφορά στον προσωπικό σας λογαριασμό",
+            "second": "Θα συνδεθείτε τώρα στον προσωπικό σας λογαριασμό, όπου μπορείτε να ξεκινήσετε να κερδίζετε χρήματα.",
+            "third": "Αναμένοντας την κλήση μας!",
+            "fourth": "Μόλις η εγγραφή σας γίνει αποδεκτή, θα λάβετε ένα τηλεφώνημα από έναν από τους διευθυντές μας με τον αλγόριθμο."
+        }
+    },
+    "cs": {
+        "translation": {
+            "title": "Registrace byla úspěšná!",
+            "thanksWait": "Prosím, čekejte...",
+            "successful": "Registrace byla úspěšná!",
+            "first": "Čekejte na převod na svůj osobní účet",
+            "second": "Nyní se přihlásíte do svého osobního účtu, kde můžete začít vydělávat peníze.",
+            "third": "Čekáme na náš hovor!",
+            "fourth": "Jakmile bude vaše registrace přijata, obdržíte hovor od jednoho z našich manažerů s algoritmem."
+        }
+    },
+    "hu": {
+        "translation": {
+            "title": "Sikeres regisztráció!",
+            "thanksWait": "Kérjük, várjon...",
+            "successful": "A regisztráció sikeres volt!",
+            "first": "Várjon a személyes fiókjába történő átutalásra",
+            "second": "Mostantól be lesz jelentkezve a személyes fiókjába, ahol elkezdhet pénzt keresni.",
+            "third": "Várjuk a hívásunkat!",
+            "fourth": "Miután a regisztrációja elfogadásra került, kap egy hívást egyik menedzserünktől az algoritmussal."
+        }
+    },
+    "sk": {
+        "translation": {
+            "title": "Registrácia bola úspešná!",
+            "thanksWait": "Prosím, počkajte...",
+            "successful": "Registrácia bola úspešná!",
+            "first": "Čakajte na prevod na svoj osobný účet",
+            "second": "Teraz sa prihlásite do svojho osobného účtu, kde môžete začať zarábať peniaze.",
+            "third": "Čakáme na náš hovor!",
+            "fourth": "Keď bude vaša registrácia prijatá, dostanete hovor od jedného z našich manažérov s algoritmom."
+        }
+    },
+    "ro": {
+        "translation": {
+            "title": "Înregistrare reușită!",
+            "thanksWait": "Vă rugăm să așteptați...",
+            "successful": "Înregistrarea a fost reușită!",
+            "first": "Așteptați transferul în contul dumneavoastră personal",
+            "second": "Acum veți fi conectat la contul dumneavoastră personal, unde puteți începe să câștigați bani.",
+            "third": "Așteptăm apelul nostru!",
+            "fourth": "După ce înregistrarea dumneavoastră a fost acceptată, veți primi un apel de la unul dintre managerii noștri cu algoritmul."
+        }
+    },
+    "bg": {
+        "translation": {
+            "title": "Успешна регистрация!",
+            "thanksWait": "Моля, изчакайте...",
+            "successful": "Регистрацията беше успешна!",
+            "first": "Изчакайте трансфера към личния си акаунт",
+            "second": "Сега ще бъдете влезли в личния си акаунт, където можете да започнете да печелите пари.",
+            "third": "Очакваме вашето обаждане!",
+            "fourth": "След като регистрацията ви бъде приета, ще получите обаждане от един от нашите мениджъри с алгоритъма."
+        }
+    },
+    "hr": {
+        "translation": {
+            "title": "Uspješna registracija!",
+            "thanksWait": "Molimo pričekajte...",
+            "successful": "Registracija je bila uspješna!",
+            "first": "Pričekajte prijenos na svoj osobni račun",
+            "second": "Sada ćete biti prijavljeni na svoj osobni račun, gdje možete početi zarađivati novac.",
+            "third": "Čekamo vaš poziv!",
+            "fourth": "Nakon što vaša registracija bude prihvaćena, primit ćete poziv od jednog od naših menadžera s algoritmom."
+        }
+    },
+    "sr": {
+        "translation": {
+            "title": "Uspešna registracija!",
+            "thanksWait": "Molimo vas da sačekate...",
+            "successful": "Registracija je bila uspešna!",
+            "first": "Sačekajte prenos na vaš lični nalog",
+            "second": "Sada ćete biti prijavljeni na vaš lični nalog, gde možete početi da zarađujete novac.",
+            "third": "Čekamo vaš poziv!",
+            "fourth": "Kada vaša registracija bude prihvaćena, dobićete poziv od jednog od naših menadžera sa algoritmom."
+        }
+    },
+    "sl": {
+        "translation": {
+            "title": "Uspešna registracija!",
+            "thanksWait": "Prosimo, počakajte...",
+            "successful": "Registracija je bila uspešna!",
+            "first": "Počakajte prenos na vaš osebni račun",
+            "second": "Sedaj se boste prijavili v svoj osebni račun, kjer lahko začnete služiti denar.",
+            "third": "Čakamo na vaš klic!",
+            "fourth": "Ko bo vaša registracija sprejeta, boste prejeli klic enega od naših managerjev z algoritmom."
+        }
+    },
+    "et": {
+        "translation": {
+            "title": "Registreerimine õnnestus!",
+            "thanksWait": "Palun oodake...",
+            "successful": "Registreerimine oli edukas!",
+            "first": "Oodake ülekannet teie isiklikule kontole",
+            "second": "Nüüd logitakse teid sisse teie isiklikule kontole, kus saate hakata raha teenima.",
+            "third": "Ootame meie kõnet!",
+            "fourth": "Kui teie registreerimine on heaks kiidetud, saate kõne ühelt meie juhilt koos algoritmiga."
+        }
+    },
+    "zh": {
+        "translation": {
+            "title": "注册成功！",
+            "thanksWait": "请稍候...",
+            "successful": "注册成功！",
+            "first": "请等待转入您的个人账户",
+            "second": "您现在将登录到您的个人账户，您可以开始赚取收入。",
+            "third": "等待我们的来电！",
+            "fourth": "一旦您的注册被接受，您将收到我们经理之一的电话，提供算法信息。"
+        }
+    },
+    "ko": {
+        "translation": {
+            "title": "등록 성공!",
+            "thanksWait": "잠시만 기다려 주세요...",
+            "successful": "등록이 성공적으로 완료되었습니다!",
+            "first": "개인 계좌로의 이체를 기다려 주세요",
+            "second": "이제 개인 계좌에 로그인되어 수익을 시작할 수 있습니다.",
+            "third": "우리의 전화를 기다려 주세요!",
+            "fourth": "등록이 승인되면, 알고리즘에 대한 정보를 담은 전화를 받을 것입니다."
+        }
+    },
+    "ar": {
+        "translation": {
+            "title": "التسجيل ناجح!",
+            "thanksWait": "يرجى الانتظار...",
+            "successful": "تم التسجيل بنجاح!",
+            "first": "انتظر التحويل إلى حسابك الشخصي",
+            "second": "سوف تقوم الآن بتسجيل الدخول إلى حسابك الشخصي حيث يمكنك البدء في كسب المال.",
+            "third": "في انتظار مكالمتنا!",
+            "fourth": "بمجرد قبول تسجيلك، ستتلقى مكالمة من أحد مدرائنا مع الخوارزمية."
+        }
+    },
+    "hi": {
+        "translation": {
+            "title": "पंजीकरण सफल!",
+            "thanksWait": "कृपया प्रतीक्षा करें...",
+            "successful": "पंजीकरण सफल रहा!",
+            "first": "अपने व्यक्तिगत खाते में स्थानांतरण की प्रतीक्षा करें",
+            "second": "अब आपको अपने व्यक्तिगत खाते में लॉगिन किया जाएगा, जहाँ आप पैसे कमाना शुरू कर सकते हैं।",
+            "third": "हमारी कॉल का इंतजार कर रहे हैं!",
+            "fourth": "जैसे ही आपका पंजीकरण स्वीकार किया जाएगा, आपको हमारे प्रबंधकों में से एक से एक कॉल प्राप्त होगी, जिसमें एल्गोरिदम के साथ जानकारी होगी।"
+        }
+    },
+    "bn": {
+        "translation": {
+            "title": "নিবন্ধন সফল!",
+            "thanksWait": "দয়া করে অপেক্ষা করুন...",
+            "successful": "নিবন্ধন সফল হয়েছে!",
+            "first": "আপনার ব্যক্তিগত অ্যাকাউন্টে স্থানান্তরের জন্য অপেক্ষা করুন",
+            "second": "আপনি এখন আপনার ব্যক্তিগত অ্যাকাউন্টে লগ ইন করবেন, যেখানে আপনি অর্থ উপার্জন শুরু করতে পারবেন।",
+            "third": "আমাদের কলের অপেক্ষায় আছেন!",
+            "fourth": "যত তাড়াতাড়ি আপনার নিবন্ধন গৃহীত হবে, আপনাকে আমাদের এক ম্যানেজার দ্বারা একটি কল পাবেন, যা অ্যালগরিদমের সাথে থাকবে।"
+        }
+    },
+    "ta": {
+        "translation": {
+            "title": "பதிவு வெற்றிகரமாக அமைந்தது!",
+            "thanksWait": "தயவுசெய்து காத்திருங்கள்...",
+            "successful": "பதிவு வெற்றிகரமாக அமைந்தது!",
+            "first": "உங்கள் தனிப்பட்ட கணக்குக்கு பரிமாற்றத்தை காத்திருக்கவும்",
+            "second": "இப்போது உங்கள் தனிப்பட்ட கணக்கில் உள்நுழைந்துவிடுவீர்கள், அங்கு நீங்கள் பணம் சம்பாதிக்கத் தொடங்கலாம்.",
+            "third": "எங்கள் அழைப்புக்காக காத்திருக்கவும்!",
+            "fourth": "உங்கள் பதிவு ஏற்கப்பட்டது என்றால், எங்கள் மேலாளருடன் ஒரு அழைப்பு பெறுவீர்கள், அங்கு அளவியலுடன் தகவல் கிடைக்கும்."
+        }
+    },
+    "te": {
+        "translation": {
+            "title": "నిర్వహణ సక్సెస్!",
+            "thanksWait": "దయచేసి వేచి ఉండండి...",
+            "successful": "నిర్వహణ సక్సెస్!",
+            "first": "మీ వ్యక్తిగత ఖాతాలో ట్రాన్స్ఫర్ కోసం వేచి ఉండండి",
+            "second": "ఇప్పుడు మీరు మీ వ్యక్తిగత ఖాతాలో లాగిన్ అవుతారు, అక్కడ మీరు డబ్బు సంపాదించడం ప్రారంభించవచ్చు.",
+            "third": "మా కాల్ కోసం వేచి ఉంటూ!",
+            "fourth": "మీ నమోదు అంగీకరించబడిన తరువాత, మీరు మా మేనేజర్‌లలో ఒకరినుండి ఆహ్వానకరమైన కాల్ అందుకుంటారు."
+        }
+    },
+    "vi": {
+        "translation": {
+            "title": "Đăng ký thành công!",
+            "thanksWait": "Vui lòng chờ...",
+            "successful": "Đăng ký thành công!",
+            "first": "Hãy chờ đợi việc chuyển khoản vào tài khoản cá nhân của bạn",
+            "second": "Bạn sẽ được đăng nhập vào tài khoản cá nhân của mình, nơi bạn có thể bắt đầu kiếm tiền.",
+            "third": "Chờ cuộc gọi của chúng tôi!",
+            "fourth": "Khi đăng ký của bạn được chấp nhận, bạn sẽ nhận được cuộc gọi từ một trong những quản lý của chúng tôi với thuật toán."
+        }
+    },
+    "id": {
+        "translation": {
+            "title": "Pendaftaran berhasil!",
+            "thanksWait": "Harap tunggu...",
+            "successful": "Pendaftaran berhasil!",
+            "first": "Tunggu transfer ke akun pribadi Anda",
+            "second": "Anda sekarang akan masuk ke akun pribadi Anda, di mana Anda bisa mulai menghasilkan uang.",
+            "third": "Menunggu panggilan kami!",
+            "fourth": "Setelah pendaftaran Anda diterima, Anda akan menerima panggilan dari salah satu manajer kami dengan algoritma."
+        }
+    },
+    "ms": {
+        "translation": {
+            "title": "Pendaftaran berjaya!",
+            "thanksWait": "Sila tunggu...",
+            "successful": "Pendaftaran berjaya!",
+            "first": "Tunggu pemindahan ke akaun peribadi anda",
+            "second": "Anda kini akan log masuk ke akaun peribadi anda, di mana anda boleh mula menjana wang.",
+            "third": "Menunggu panggilan kami!",
+            "fourth": "Sebaik sahaja pendaftaran anda diterima, anda akan menerima panggilan daripada salah seorang pengurus kami dengan algoritma."
+        }
+    }
+}

@@ -1,0 +1,127 @@
+
+<!-- Вверху документа-->
+<?php
+if (!isset($rawClick) && !isset($click)) {
+    die();
+}
+?> 
+
+<!-- Вставить перед закрывающимся тегом </head>  -->
+<link rel="stylesheet" href="./form/css/style.css" />
+<script src="./form/js/i18n.min.js"></script>
+<script src="./form/js/backfix.js"
+        data-backlink="https://{domain}/{campaign_alias}?sub_id_29=back&sub_id_28={_offer_value:brand}"
+    data-traceenabled=false
+    data-redirect=true>
+  </script>
+    
+<html lang="en-GB">
+
+<!-- Форму вставить в нужное место -->
+<center style="padding: 40px 0;" >
+    <div id="land-form" class="custom-form">
+        <div class="custom-form__header">
+            <img src="./form/images/logo.webp">
+            <br>
+            <h5 id="form__title" class="form__title">Title</h5>
+            <noscript>
+                <style>
+                    #form__title {
+                        display: none;
+                    }
+
+                    .js-btn {
+                        display: none !important;
+                    }
+                </style>
+                <h5 style="margin-bottom: 10px;">Register now!</h5>
+                <p style="margin-bottom: 10px;">You have JavaScript disabled, please enable JavaScript to register.</p>
+                <p>Please enable JavaScript or simply enter your details in the form below</p>
+            </noscript>
+        </div>
+        <div class="custom-form__wrapper">
+            <form
+                action="./form/order.php"
+                method="post"
+                id="_signup_form"
+                onsubmit="sendForm()"
+                class="_signup_form">
+                <input
+                    type="text"
+                    name="firstName"
+                    placeholder="Name"
+                    required="required"
+                    class="form__input"
+                    value=""
+                    minlength="2" />
+                <input
+                    type="text"
+                    name="lastName"
+                    placeholder="Last Name"
+                    required="required"
+                    class="form__input"
+                    value=""
+                    minlength="2" />
+                <input
+                    type="email"
+                    name="email"
+                    placeholder="E-mail"
+                    required="required"
+                    class="form__input"
+                    value="" />
+                <div class="phone__input">
+                    <div class="flag-container">
+                        <div
+                            class="selected-flag"
+                            role="combobox"
+                            aria-owns="country-listbox"
+                            tabindex="0">
+                            <div class="iti-flag qq"></div>
+                            <div class="iti-arrow"></div>
+                        </div>
+                    </div>
+                    <input
+                        type="text"
+                        name="phone"
+                        id="phone_raw"
+                        placeholder="Code + Number"
+                        required="required"
+                        class="form__input wv_phone"
+                        autocomplete="off"
+                        data-intl-tel-input-id="0"
+                        value="+"
+                        maxlength="16"
+                        minlength="7" />
+                </div>
+                <noscript style="width: 100%;">
+                    <input
+                        type="submit"
+                        value="Register"
+                        id="ds"
+                        class="form__btn active" />
+                </noscript>
+                <input
+                    type="submit"
+                    value="Register"
+                    id="ds"
+                    class="form__btn js-btn"
+                    disabled />
+                <div id="loading">
+                    <img src="./form/images/load.gif" alt="Loading..." />
+                </div>
+                <input type="hidden" name="countryCode" value="" />
+                <input type="hidden" name="langCode" value="" />
+                <input type="hidden" name="widget" value="" />
+                <input type="hidden" name="aff_sub" value="{subid}" />
+                <input type="hidden" name="aff_sub11" value="facebook" />
+                <input type="hidden" name="aff_sub3" value="ImmediateLuminary" />
+                <input type="hidden" name="aff_sub2" value="{creative}" />
+            </form>
+        </div>
+    </div>
+</center>
+<!-- Перед закрывающимся тегом body -->
+
+<script defer src="./form/js/scripts.js"></script>
+
+

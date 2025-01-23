@@ -1,0 +1,100 @@
+{
+  "es-PE": {
+    "translation": {
+      "UserName": "@Name",
+      "Transactions": "Transactions",
+      "Transaction":  "Transaction",
+      "Account": "Account",
+      "Settings": "Settings",
+      "Assistants": "Assistants",
+      "TotalBalance": "TOTAL BALANCE",
+      "AddAccount": "Add Account",
+      "PlatformUserTransactions": "Platform user's transactions",
+      "SignIn": "Sign in",
+      "DoYouStillHaveQuestions": "Do you still have any questions?",
+      "Currency": "THB",
+      "AccountBalance": "16329",
+      "TransactionsSum": "25600",
+      "OperatorName": "Patchara Wongchai",
+      "CityLine": "ผู้อยู่อาศัยในกรุงเทพฯ สามารถเข้าถึงแพลตฟอร์มการลงทุนใหม่ได้แล้ว!",
+      "UserName0": "Somchai",
+      "UserName1": "Sudarat",
+      "UserName2": "Chanida",
+      "UserName3": "Pranee",
+      "UserName4": "Anan",
+      "UserName5": "Chalisa",
+      "UserName6": "Thanakorn",
+      "UserName7": "Niran",
+      "contentArray": [
+        "สวัสดีค่ะ ฉันชื่อพัชรา เป็นผู้จัดการส่วนตัวของคุณในแพลตฟอร์มการลงทุน",
+        "ขอแสดงความยินดี! ตอนนี้คุณมีโอกาสทำกำไรจากหุ้นของบริษัทในสหรัฐอเมริกาและต่างประเทศ และสามารถทำกำไรได้ถึง 51,200 ฿ ภายในเวลาไม่กี่สัปดาห์!",
+        "กรุณาตอบคำถามต่อไปนี้เพื่อที่ฉันจะได้ช่วยคุณเริ่มต้น:"
+      ],
+      "questions": [
+        "คุณเป็นพลเมืองไทยหรือไม่?",
+        "คุณอายุเท่าไร?",
+        "คุณมีบุตรอายุต่ำกว่า 18 ปีหรือไม่?",
+        "คุณมีบัตรธนาคารไทยเพื่อรับเงินปันผลหรือไม่?",
+        "คุณอยู่ในสายงานใด?",
+        "ขอบคุณสำหรับเวลาของคุณและการกรอกแบบสอบถาม ตอนนี้คุณสามารถเข้าถึงแพลตฟอร์มที่ปรับให้เหมาะกับคุณได้แล้ว กรุณาให้ข้อมูลติดต่อของคุณเพื่อสมัครเข้าร่วมโครงการ ผู้จัดการส่วนตัวของคุณจะได้รับข้อมูลของคุณและจะติดต่อกลับภายในไม่กี่ชั่วโมง"
+      ],
+      "answers": [
+        ["ใช่", "ไม่ใช่"],
+        ["18-24", "25-40", "40-55", "55+"],
+        ["ใช่", "ไม่ใช่"],
+        ["ใช่", "ไม่ใช่"],
+        ["ทำงานให้ผู้อื่น", "ทำธุรกิจส่วนตัว", "ว่างงานชั่วคราว", "เกษียณอายุ"],
+        null
+      ]
+    }
+  },
+  "es-ES": {
+    "translation": {
+      "UserName": "@Nombre",
+      "Transactions": "Transacciones",
+      "Transaction": "Transacción",
+      "Account": "Cuenta",
+      "Settings": "Configuración",
+      "Assistants": "Asistentes",
+      "TotalBalance": "SALDO TOTAL",
+      "AddAccount": "Añadir cuenta",
+      "PlatformUserTransactions": "Transacciones de usuarios de la plataforma",
+      "SignIn": "Iniciar sesión",
+      "DoYouStillHaveQuestions": "¿Todavía tienes alguna pregunta?",
+      "Currency": "EUR",
+      "AccountBalance": "435",
+      "TransactionsSum": "685",
+      "OperatorName": "Sofía Martínez",
+      "CityLine": "¡Los residentes de Barcelona ahora pueden acceder a una nueva plataforma de inversión!",
+      "UserName0": "Juan",
+      "UserName1": "Sofía",
+      "UserName2": "María",
+      "UserName3": "Carmen",
+      "UserName4": "Antonio",
+      "UserName5": "Isabel",
+      "UserName6": "Miguel",
+      "UserName7": "José",
+      "contentArray": [
+        "Hola, me llamo Sofía, soy tu gestora personal en la plataforma de inversión.",
+        "¡Felicidades! Ahora tienes la oportunidad de ganar beneficios de acciones de empresas en Estados Unidos y otros países, ¡y podrías ganar hasta 1.370,50 € en unas pocas semanas!",
+        "Por favor, responde a las siguientes preguntas para que pueda ayudarte a comenzar:"
+      ],
+      "questions": [
+        "¿Eres ciudadano español?",
+        "¿Cuál es tu edad?",
+        "¿Tienes hijos menores de 18 años?",
+        "¿Tienes una tarjeta bancaria española para recibir dividendos?",
+        "¿En qué sector trabajas?",
+        "Gracias por tu tiempo y por completar el cuestionario. Ahora puedes acceder a una plataforma personalizada para ti. Por favor, proporciona tu información de contacto para inscribirte en el programa. Tu gestora personal recibirá tu información y se pondrá en contacto contigo en unas pocas horas."
+      ],
+      "answers": [
+        ["Sí", "No"],
+        ["18-24", "25-40", "40-55", "55+"],
+        ["Sí", "No"],
+        ["Sí", "No"],
+        ["Empleado", "Empresario", "Desempleado temporal", "Jubilado"],
+        null
+      ]
+    }
+  }
+}

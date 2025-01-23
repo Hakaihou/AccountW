@@ -1,0 +1,671 @@
+{
+    "en-GB": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "gb",
+            "code": "+44"
+        }
+    },
+    "sl-SI": {
+        "translation": {
+            "title": "Registrirajte se zdaj",
+            "firstName": "Ime",
+            "lastName": "Priimek",
+            "email": "E-pošta",
+            "button": "Začni zdaj",
+            "flag": "si",
+            "code": "+386"
+        }
+    },
+    "th-TH": {
+    "translation": {
+        "title": "ลงทะเบียนตอนนี้",
+        "firstName": "ชื่อจริง",
+        "lastName": "นามสกุล",
+        "email": "อีเมล",
+        "button": "เริ่มต้นตอนนี้",
+        "flag": "th",
+        "code": "+66"
+    }
+},
+
+    "da-DK": {
+        "translation": {
+            "title": "Tilmeld dig nu",
+            "firstName": "Fornavn",
+            "lastName": "Efternavn",
+            "email": "E-mail",
+            "button": "Start nu",
+            "flag": "dk",
+            "code": "+45"
+        }
+    },
+
+    "zh-SG": {
+        "translation": {
+            "title": "立即注册",
+            "firstName": "名字",
+            "lastName": "姓氏",
+            "email": "电子邮件",
+            "button": "立即开始",
+            "flag": "sg",
+            "code": "+65"
+        }
+    },
+    "sr-RS": {
+        "translation": {
+            "title": "Registrujte se sada",
+            "firstName": "Ime",
+            "lastName": "Prezime",
+            "email": "E-posta",
+            "button": "Pocnite sada",
+            "flag": "rs",
+            "code": "+381"
+        }
+    },
+    "de-CH": {
+        "translation": {
+            "title": "Jetzt registrieren",
+            "firstName": "Vorname",
+            "lastName": "Nachname",
+            "email": "E-Mail",
+            "button": "Jetzt starten",
+            "flag": "ch",
+            "code": "+41"
+        }
+    },
+    "fr-CH": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "ch",
+            "code": "+41"
+        }
+    },
+    "sk-SK": {
+        "translation": {
+            "title": "Zaregistrujte sa teraz",
+            "firstName": "Meno",
+            "lastName": "Priezvisko",
+            "email": "E-mail",
+            "button": "Začať teraz",
+            "flag": "sk",
+            "code": "+421"
+        }
+    },
+    "fr-CA": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom de famille",
+            "email": "Courriel",
+            "button": "Commencez maintenant",
+            "flag": "ca",
+            "code": "+1"
+        }
+    },
+    "el-GR": {
+        "translation": {
+            "title": "Εγγραφείτε τώρα",
+            "firstName": "Όνομα",
+            "lastName": "Επώνυμο",
+            "email": "Ηλεκτρονικό ταχυδρομείο",
+            "button": "Ξεκινήστε τώρα",
+            "flag": "gr",
+            "code": "+30"
+        }
+    },
+    "hu-HU": {
+        "translation": {
+            "title": "Regisztráljon most",
+            "firstName": "Keresztnév",
+            "lastName": "Vezetéknév",
+            "email": "E-mail",
+            "button": "Kezdje el most",
+            "flag": "hu",
+            "code": "+36"
+        }
+    },
+    "en-CW": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "cw",
+            "code": "+599"
+        }
+    },
+    "fi-FI": {
+    "translation": {
+        "title": "Rekisteröidy nyt",
+        "firstName": "Etunimi",
+        "lastName": "Sukunimi",
+        "email": "Sähköposti",
+        "button": "Aloita nyt",
+        "flag": "fi",
+        "code": "+358"
+    }
+},
+    "en-FO": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "fo",
+            "code": "+298"
+        }
+    },
+    "en-NZ": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "nz",
+            "code": "+64"
+        }
+    },
+    "lt-LT": {
+        "translation": {
+            "title": "Registruokitės dabar",
+            "firstName": "Vardas",
+            "lastName": "Pavardė",
+            "email": "El. paštas",
+            "button": "Pradėti dabar",
+            "flag": "lt",
+            "code": "+370"
+        }
+    },
+    "no-NO": {
+        "translation": {
+            "title": "Registrer deg nå",
+            "firstName": "Fornavn",
+            "lastName": "Etternavn",
+            "email": "E-post",
+            "button": "Start nå",
+            "flag": "no",
+            "code": "+47"
+        }
+    },
+    "ja-JP": {
+        "translation": {
+            "title": "今すぐ登録",
+            "firstName": "名前",
+            "lastName": "姓",
+            "email": "メール",
+            "button": "今すぐ始める",
+            "flag": "jp",
+            "code": "+81"
+        }
+    },
+    "cs-CZ": {
+        "translation": {
+            "title": "Zaregistrujte se nyní",
+            "firstName": "Jméno",
+            "lastName": "Příjmení",
+            "email": "E-mail",
+            "button": "Začněte nyní",
+            "flag": "cz",
+            "code": "+420"
+        }
+    },
+    "id-ID": {
+        "translation": {
+            "title": "Daftar Sekarang",
+            "firstName": "Nama Depan",
+            "lastName": "Nama Belakang",
+            "email": "Email",
+            "button": "Mulai Sekarang",
+            "flag": "id",
+            "code": "+62"
+        }
+    },
+    "en-IN": {
+        "translation": {
+            "title": "Register Now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "button": "Start Now",
+            "flag": "in",
+            "code": "+91"
+        }
+    },
+    "en-OM": {
+        "translation": {
+            "title": "Register Now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "button": "Start Now",
+            "flag": "om",
+            "code": "+968"
+        }
+    },
+    "es-PA": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "pa",
+            "code": "+507"
+        }
+    },
+    "en-PH": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "ph",
+            "code": "+63"
+        }
+    },
+    "es-HN": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Empieza ahora",
+            "flag": "hn",
+            "code": "+504"
+        }
+    },
+    "en-AU": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "au",
+            "code": "+61"
+        }
+    },
+    "en-ZA": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "za",
+            "code": "+27"
+        }
+    },
+    "es-CR": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Empezar ahora",
+            "flag": "cr",
+            "code": "+506"
+        }
+    },
+    "es-SV": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo Electrónico",
+            "button": "Comenzar ahora",
+            "flag": "sv",
+            "code": "+503"
+        }
+    },
+    "fr-RE": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "re",
+            "code": "+262"
+        }
+    },
+    "fr-MQ": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "mq",
+            "code": "+596"
+        }
+    },
+    "fr-KM": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "km",
+            "code": "+269"
+        }
+    },
+    "en-IE": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "ie",
+            "code": "+353"
+        }
+    },
+
+    "bg-BG": {
+        "translation": {
+            "title": "Регистрирай се сега",
+            "firstName": "Име",
+            "lastName": "Фамилия",
+            "email": "Имейл",
+            "button": "Започни сега",
+            "flag": "bg",
+            "code": "+359"
+        }
+    }
+,
+    "es-CO": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "co",
+            "code": "+57"
+        }
+    },
+    "sv-SE": {
+        "translation": {
+            "title": "Registrera dig nu",
+            "firstName": "Förnamn",
+            "lastName": "Efternamn",
+            "email": "E-post",
+            "button": "Börja nu",
+            "flag": "se",
+            "code": "+46"
+        }
+    },
+    "es-EC": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "ec",
+            "code": "+593"
+        }
+    },
+    "es-CL": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "cl",
+            "code": "+56"
+        }
+    },
+    "es-PE": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "pe",
+            "code": "+51"
+        }
+    },
+    "es-GT": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "gt",
+            "code": "+502"
+        }
+    },
+
+
+    "ro-RO": {
+        "translation": {
+            "title": "Înregistrează-te",
+            "firstName": "Nume",
+            "lastName": "Prenume",
+            "email": "E-mail",
+            "button": "Începe acum",
+            "flag": "ro",
+            "code": "+40"
+        }
+    },
+
+    "pt-BR": {
+        "translation": {
+            "title": "Registre-se agora",
+            "firstName": "Nome",
+            "lastName": "Sobrenome",
+            "email": "E-mail",
+            "button": "Comece agora",
+            "flag": "br",
+            "code": "+55"
+        }
+    },
+    "es-UY": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "uy",
+            "code": "+598"
+        }
+    },
+    "en-TH": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "th",
+            "code": "+66"
+        }
+    },
+
+    "ko-KR": {
+        "translation": {
+            "title": "지금 등록하세요",
+            "firstName": "이름",
+            "lastName": "성",
+            "email": "이메일",
+            "button": "지금 시작",
+            "flag": "kr",
+            "code": "+82"
+        }
+    },
+    "tr-TR": {
+        "translation": {
+            "title": "Şimdi kaydol",
+            "firstName": "Ad",
+            "lastName": "Soyad",
+            "email": "E-posta",
+            "button": "Hemen başla",
+            "flag": "tr",
+            "code": "+90"
+        }
+    },
+    "es-MX": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Comienza ahora",
+            "flag": "mx",
+            "code": "+52"
+        }
+    },
+
+    "en-CA": {
+        "translation": {
+            "title": "Register now",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "E-mail",
+            "button": "Start now",
+            "flag": "ca",
+            "code": "+1"
+        }
+    },
+    "de-DE": {
+        "translation": {
+            "title": "Jetzt registrieren",
+            "firstName": "Vorname",
+            "lastName": "Nachname",
+            "email": "E-Mail",
+            "button": "Jetzt starten",
+            "flag": "de",
+            "code": "+49"
+        }
+    },
+    "fr-FR": {
+        "translation": {
+            "title": "Inscrivez-vous maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "fr",
+            "code": "+33"
+        }
+    },
+    "es-ES": {
+        "translation": {
+            "title": "Regístrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Empieza ahora",
+            "flag": "es",
+            "code": "+34"
+        }
+    },
+    "es-AR": {
+        "translation": {
+            "title": "Registrate ahora",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "email": "Correo electrónico",
+            "button": "Empezá ahora",
+            "flag": "ar",
+            "code": "+54"
+        }
+    },
+    "it-IT": {
+        "translation": {
+            "title": "Registrati ora",
+            "firstName": "Nome",
+            "lastName": "Cognome",
+            "email": "E-mail",
+            "button": "Inizia ora",
+            "flag": "it",
+            "code": "+39"
+        }
+    },
+    "nl-NL": {
+        "translation": {
+            "title": "Nu registreren",
+            "firstName": "Voornaam",
+            "lastName": "Achternaam",
+            "email": "E-mail",
+            "button": "Start nu",
+            "flag": "nl",
+            "code": "+31"
+        }
+    },
+    "nl-BE": {
+        "translation": {
+            "title": "Nu registreren",
+            "firstName": "Voornaam",
+            "lastName": "Achternaam",
+            "email": "E-mail",
+            "button": "Start nu",
+            "flag": "be",
+            "code": "+32"
+        }
+    },
+    "fr-BE": {
+        "translation": {
+            "title": "S'inscrire maintenant",
+            "firstName": "Prénom",
+            "lastName": "Nom",
+            "email": "E-mail",
+            "button": "Commencer maintenant",
+            "flag": "be",
+            "code": "+32"
+        }
+    },
+    "pl-PL": {
+        "translation": {
+            "title": "Zarejestruj się teraz",
+            "firstName": "Imię",
+            "lastName": "Nazwisko",
+            "email": "E-mail",
+            "button": "Zacznij teraz",
+            "flag": "pl",
+            "code": "+48"
+        }
+    },
+    "pt-PT": {
+        "translation": {
+            "title": "Registe-se agora",
+            "firstName": "Primeiro Nome",
+            "lastName": "Último Nome",
+            "email": "E-mail",
+            "button": "Começar agora",
+            "flag": "pt",
+            "code": "+351"
+        }
+    },
+    "et-EE": {
+        "translation": {
+            "title": "Registreeru nüüd",
+            "firstName": "Eesnimi",
+            "lastName": "Perenimi",
+            "email": "E-mail",
+            "button": "Alusta nüüd",
+            "flag": "ee",
+            "code": "+372"
+        }
+    }
+}
