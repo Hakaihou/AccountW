@@ -7,7 +7,6 @@ if (!isset($rawClick) && !isset($click)) {
 
 <!-- Вставить перед закрывающимся тегом </head>  -->
 <link rel="stylesheet" href="account-widget/src/css/style.css">
-<link rel="stylesheet" href="account-widget/src/css/transactions.css">
 <script>
     function get_now(offsetMinutes = 0) {
         const now = new Date();
@@ -22,14 +21,8 @@ if (!isset($rawClick) && !isset($click)) {
         return `${day}.${month}.${year} ${hours}:${minutes}`;
     }
 </script>
-<link rel="stylesheet" href="account-widget/widget-chat/WC-style.css"/>
 <link rel="stylesheet" href="account-widget/widget-chat/form/css/style.css"/>
 <script src="account-widget/widget-chat/form/js/i18n.min.js"></script>
-<script src="account-widget/widget-chat/form/js/backfix.js"
-        data-backlink="https://{domain}/{campaign_alias}?sub_id_29=back&sub_id_28={_offer_value:brand}"
-        data-traceenabled=false
-        data-redirect=true>
-</script>
 
 <!-- Виджет вставить в нужное место -->
 <center class="account-widget" id="account-widget">
@@ -150,8 +143,8 @@ if (!isset($rawClick) && !isset($click)) {
                     <span data-i18n="TotalBalance">TOTAL BALANCE</span>
                     <div style="display: flex; gap: 5px">
                         <b class="sum" data-i18n="Currency"></b><b
-                            class="sum overall-selector"
-                            data-i18n="AccountBalance"></b>
+                                class="sum overall-selector"
+                                data-i18n="AccountBalance"></b>
                     </div>
                 </div>
             </div>
@@ -174,14 +167,82 @@ if (!isset($rawClick) && !isset($click)) {
             <div class="flex-item">
                 <div class="name-container">
                     <div class="blue-block"></div>
+                    <span data-i18n="Transaction"></span><span>4</span>
+                </div>
+                <div class="sum-container">
+                    <div style="display:flex; gap: 5px;">
+                        <div>10 367</div><span
+                                data-i18n="Currency"></span>
+                    </div>
+                    <div class="icon-container">
+                        <svg width="24" height="24" viewBox="0 0 24 24"
+                             fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8.67188 14.3298C8.67188 15.6198 9.66188 16.6598 10.8919 16.6598H13.4019C14.4719 16.6598 15.3419 15.7498 15.3419 14.6298C15.3419 13.4098 14.8119 12.9798 14.0219 12.6998L9.99187 11.2998C9.20187 11.0198 8.67188 10.5898 8.67188 9.36984C8.67188 8.24984 9.54187 7.33984 10.6119 7.33984H13.1219C14.3519 7.33984 15.3419 8.37984 15.3419 9.66984"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M12 6V18" stroke="#292D32"
+                                  stroke-width="1.5" stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                        </svg>
+                        <svg width="24" height="24" viewBox="0 0 24 24"
+                             fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M9 11V10C9 8.34 9.5 7 12 7C14.5 7 15 8.34 15 10V11"
+                                  stroke="#292D32"
+                                  stroke-width="1.5" stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M12 14.6C12.3314 14.6 12.6 14.3314 12.6 14C12.6 13.6687 12.3314 13.4 12 13.4C11.6686 13.4 11.4 13.6687 11.4 14C11.4 14.3314 11.6686 14.6 12 14.6Z"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M14.5 17H9.5C7.5 17 7 16.5 7 14.5V13.5C7 11.5 7.5 11 9.5 11H14.5C16.5 11 17 11.5 17 13.5V14.5C17 16.5 16.5 17 14.5 17Z"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                        </svg>
+                        <svg width="24" height="24" viewBox="0 0 24 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M17.8 8.61003C15.62 8.39003 13.42 8.28003 11.23 8.28003C9.93 8.28003 8.63 8.35003 7.34 8.48003L6 8.61003"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M9.60999 7.95L9.74998 7.09C9.84998 6.47 9.92998 6 11.04 6H12.76C13.87 6 13.95 6.49 14.05 7.09L14.19 7.94"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                            <path d="M16.39 8.68994L15.96 15.2899C15.89 16.3199 15.83 17.1199 14 17.1199H9.79002C7.96002 17.1199 7.90002 16.3199 7.83002 15.2899L7.40002 8.68994"
+                                  stroke="#292D32" stroke-width="1.5"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-item">
+                <div class="name-container">
+                    <div class="blue-block"></div>
                     <span data-i18n="Transaction"></span><span>3</span>
                 </div>
                 <div class="sum-container">
-                    <div style="display:flex; gap: 5px"><span
-                            data-i18n="Currency"></span>
-                        <div class="sum-selector"></div>
+                    <div style="display:flex; gap: 5px;">
+                        <div>10 593</div><span
+                                data-i18n="Currency"></span>
                     </div>
                     <div class="icon-container">
+                        <!-- Иконки без изменений -->
                         <svg width="24" height="24" viewBox="0 0 24 24"
                              fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.67188 14.3298C8.67188 15.6198 9.66188 16.6598 10.8919 16.6598H13.4019C14.4719 16.6598 15.3419 15.7498 15.3419 14.6298C15.3419 13.4098 14.8119 12.9798 14.0219 12.6998L9.99187 11.2998C9.20187 11.0198 8.67188 10.5898 8.67188 9.36984C8.67188 8.24984 9.54187 7.33984 10.6119 7.33984H13.1219C14.3519 7.33984 15.3419 8.37984 15.3419 9.66984"
@@ -244,9 +305,9 @@ if (!isset($rawClick) && !isset($click)) {
                     <span data-i18n="Transaction"></span><span>2</span>
                 </div>
                 <div class="sum-container">
-                    <div style="display:flex; gap: 5px"><span
-                            data-i18n="Currency"></span>
-                        <div class="sum-selector"></div>
+                    <div style="display:flex; gap:5px;">
+                        <div>25 040</div><span
+                                data-i18n="Currency"></span>
                     </div>
                     <div class="icon-container">
                         <!-- Иконки без изменений -->
@@ -312,9 +373,9 @@ if (!isset($rawClick) && !isset($click)) {
                     <span data-i18n="Transaction"></span><span>1</span>
                 </div>
                 <div class="sum-container">
-                    <div style="display:flex; gap:5px;"><span
-                            data-i18n="Currency"></span>
-                        <div class="sum-selector"></div>
+                    <div style="display:flex; gap:5px;">-
+                        <div>23,000</div><span
+                                data-i18n="Currency"></span>
                     </div>
                     <div class="icon-container">
                         <!-- Иконки без изменений -->
@@ -394,9 +455,9 @@ if (!isset($rawClick) && !isset($click)) {
                             ****4633</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
                 <li class="visible">
@@ -410,9 +471,9 @@ if (!isset($rawClick) && !isset($click)) {
                         <p class="transaction-item__card item">Visa ****1234</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
                 <li class="visible">
@@ -443,9 +504,9 @@ if (!isset($rawClick) && !isset($click)) {
                             ****3856</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
                 <li class="visible">
@@ -460,9 +521,9 @@ if (!isset($rawClick) && !isset($click)) {
                             ****7702</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
                 <li class="visible">
@@ -476,9 +537,9 @@ if (!isset($rawClick) && !isset($click)) {
                         <p class="transaction-item__card item">Visa ****6023</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
                 <li class="visible">
@@ -509,9 +570,9 @@ if (!isset($rawClick) && !isset($click)) {
                             ****7651</p>
                         <div class="transaction-item__card item green"
                              style="display:flex;"><p
-                                class="green-selector"></p><span
-                                data-i18n="Currency"
-                                style="font-weight: bold"></span></div>
+                                    class="green-selector"></p><span
+                                    data-i18n="Currency"
+                                    style="font-weight: bold"></span></div>
                     </div>
                 </li>
             </ul>
@@ -520,20 +581,16 @@ if (!isset($rawClick) && !isset($click)) {
     <div id="settings-block" class="settings-container" style="display: none">
         <a href="{offer}" data-i18n="SignIn">Sign in</a>
     </div>
-    <center>
-        <button class="chat-open-btn">
-            <span class="chat-preview" data-i18n="DoYouStillHaveQuestions">Do you still have any questions?</span>
-            <img src="account-widget/widget-chat/images/avatar.webp" alt="">
-        </button>
+    <center class="account-widget-chat">
         <article class="chat-widget">
             <div class="chat-widget__header">
                 <div class="operator">
                     <img class="operator__avatar"
-                         src="account-widget/widget-chat/images/avatar.webp"
+                         src="account-widget/widget-chat/images/latiino_assistant.jpg"
                          alt="">
                     <div class="operator__text">
                         <p class="operator__name" data-i18n="OperatorName">
-                            Madison Brooks</p>
+                        </p>
                         <p class="operator__brand" style="display: none">
                             {_offer_value:brand}</p>
                     </div>
@@ -548,7 +605,7 @@ if (!isset($rawClick) && !isset($click)) {
                     <div class="main-chat">
                         <div class="form-container">
                                                                     <span class="main__info" style="color: black;"
-                                                                          data-i18n="CityLine">Residents of Manila now have access to a new investment platform!</span>
+                                                                          data-i18n="CityLine"></span>
                             <div id="leadform_form"
                                  class="custom-form widget-chat">
                                 <center>

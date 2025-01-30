@@ -1,7 +1,7 @@
 {
-  "es-PE": {
+  "th-TH": {
     "translation": {
-      "UserName": "@Name",
+      "UserName": "Menu",
       "Transactions": "Transactions",
       "Transaction":  "Transaction",
       "Account": "Account",
@@ -48,53 +48,54 @@
       ]
     }
   },
-  "es-ES": {
+  "es-AR": {
     "translation": {
-      "UserName": "@Nombre",
+      "UserName": "Menú",
       "Transactions": "Transacciones",
       "Transaction": "Transacción",
       "Account": "Cuenta",
       "Settings": "Configuración",
       "Assistants": "Asistentes",
       "TotalBalance": "SALDO TOTAL",
-      "AddAccount": "Añadir cuenta",
-      "PlatformUserTransactions": "Transacciones de usuarios de la plataforma",
+      "AddAccount": "Agregar cuenta",
+      "PlatformUserTransactions": "Transacciones del usuario de la plataforma",
       "SignIn": "Iniciar sesión",
-      "DoYouStillHaveQuestions": "¿Todavía tienes alguna pregunta?",
-      "Currency": "EUR",
-      "AccountBalance": "435",
-      "TransactionsSum": "685",
-      "OperatorName": "Sofía Martínez",
-      "CityLine": "¡Los residentes de Barcelona ahora pueden acceder a una nueva plataforma de inversión!",
+      "DoYouStillHaveQuestions": "¿Todavía tenés alguna pregunta?",
+      "Currency": "ARS",
+      "AccountBalance": "253000",
+      "TransactionsSum": "25600",
+      "OperatorName": "Lucía Fernández",
+      "CityLine": "¡Los residentes de Buenos Aires ya pueden acceder a una nueva plataforma de inversión!",
       "UserName0": "Juan",
-      "UserName1": "Sofía",
-      "UserName2": "María",
-      "UserName3": "Carmen",
-      "UserName4": "Antonio",
-      "UserName5": "Isabel",
-      "UserName6": "Miguel",
-      "UserName7": "José",
+      "UserName1": "María",
+      "UserName2": "Florencia",
+      "UserName3": "Sofía",
+      "UserName4": "Carlos",
+      "UserName5": "Lucía",
+      "UserName6": "Ignacio",
+      "UserName7": "Federico",
       "contentArray": [
-        "Hola, me llamo Sofía, soy tu gestora personal en la plataforma de inversión.",
-        "¡Felicidades! Ahora tienes la oportunidad de ganar beneficios de acciones de empresas en Estados Unidos y otros países, ¡y podrías ganar hasta 1.370,50 € en unas pocas semanas!",
-        "Por favor, responde a las siguientes preguntas para que pueda ayudarte a comenzar:"
+        "¡Hola! Soy Lucía Fernández, tu asesora personal en la plataforma de inversiones.",
+        "¡Felicitaciones! Ahora tenés la oportunidad de generar ganancias con acciones de empresas de Estados Unidos y de otros países, y podés obtener hasta 51.200 ARS en tan solo unas semanas.",
+        "Por favor, respondé las siguientes preguntas para que pueda ayudarte a comenzar:"
       ],
       "questions": [
-        "¿Eres ciudadano español?",
-        "¿Cuál es tu edad?",
-        "¿Tienes hijos menores de 18 años?",
-        "¿Tienes una tarjeta bancaria española para recibir dividendos?",
-        "¿En qué sector trabajas?",
-        "Gracias por tu tiempo y por completar el cuestionario. Ahora puedes acceder a una plataforma personalizada para ti. Por favor, proporciona tu información de contacto para inscribirte en el programa. Tu gestora personal recibirá tu información y se pondrá en contacto contigo en unas pocas horas."
+        "¿Sos ciudadano argentino?",
+        "¿Cuántos años tenés?",
+        "¿Tenés hijos menores de 18 años?",
+        "¿Tenés una tarjeta bancaria argentina para recibir los dividendos?",
+        "¿En qué rubro te desempeñás?",
+        "Gracias por tu tiempo y por completar el cuestionario. Ahora podés acceder a la plataforma personalizada para vos. Por favor, dejá tus datos de contacto para inscribirte en el programa. Tu asesora personal recibirá tu información y se comunicará con vos en unas pocas horas."
       ],
       "answers": [
         ["Sí", "No"],
-        ["18-24", "25-40", "40-55", "55+"],
+        ["18-24 años", "25-40 años", "40-55 años", "55+ años"],
         ["Sí", "No"],
         ["Sí", "No"],
-        ["Empleado", "Empresario", "Desempleado temporal", "Jubilado"],
+        ["Trabajo en relación de dependencia", "Tengo un negocio propio", "Estoy desempleado/a temporalmente", "Estoy jubilado/a"],
         null
       ]
     }
   }
+
 }

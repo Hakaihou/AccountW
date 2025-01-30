@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const defaultCity = 'Manila';
     const newCity = document.getElementById('currentCity');
 
     let startChating = false;
@@ -92,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
             setTimeout(() => {
                 if (contentArray[counter] !== undefined) {
                     newMessage.innerHTML =
-                        '<img src="account-widget/widget-chat/images/avatar.webp" />  <div class="chat-block">' + contentArray[counter] + '</div>';
+                        '<img src="account-widget/widget-chat/images/latiino_assistant.jpg" />  <div class="chat-block">' + contentArray[counter] + '</div>';
                 } else {
                     console.error('Сообщение undefined. Индекс:', counter);
                 }
@@ -179,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         setTimeout(() => {
             anchor.scrollTop = anchor.scrollHeight;
-            newMessage.innerHTML = '<img src="account-widget/widget-chat/images/avatar.webp" /><div class="chat-block">' + question + '</div>';
+            newMessage.innerHTML = '<img src="account-widget/widget-chat/images/latiino_assistant.jpg" /><div class="chat-block">' + question + '</div>';
             anchor.scrollTop = anchor.scrollHeight;
         }, 1000);
 
